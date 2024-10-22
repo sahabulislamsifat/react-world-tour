@@ -1,0 +1,9 @@
+.country {
+  margin: 15px;
+  border: 2px solid slateblue;
+  border-radius: 10px;
+
+}
+.country img {
+  width: 250px;
+}
