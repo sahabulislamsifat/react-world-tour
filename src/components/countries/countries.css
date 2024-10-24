@@ -7,3 +7,11 @@
 .visited {
   background-color: bisque;
 }
+
+.flag-container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+.flag-container img {
+  width: 120px;
+}
